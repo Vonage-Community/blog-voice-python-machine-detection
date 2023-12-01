@@ -35,6 +35,9 @@ You'll need to set the `<YOUR_VIRTUAL_NUMBER>` and `<CALL_CAMPAIGNER_PHONE_NUMBE
 
 Once you have your Flask application up and running, you can go ahead and start sending the calls either by using curl command or from Postman. 
 
+### Further Documentation
+
+Additional concepts and documentation related to Machine Detection API can be found at [Advanced Machine Detection](https://developer.vonage.com/en/voice/voice-api/concepts/advanced-machine-detection). 
 
 ## Contributing
 
